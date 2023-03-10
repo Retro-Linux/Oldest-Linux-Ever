@@ -1,2 +1,2 @@
 # Oldest-Linux-Ever
- Linux Initial Version With Running Environment
+ Linux Initial Version With Minimal Running Environment
