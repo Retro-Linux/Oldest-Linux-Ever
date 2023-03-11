@@ -41,6 +41,11 @@ Run Bochs with bochsrc.bxrc and VOILAAA!
 
 ## Tutorial ##
 
+https://www.youtube.com/watch?v=9ccU0SFKGHs
+
+![Screenshot 2023-03-11 010329](https://user-images.githubusercontent.com/117750238/224467107-6dc44806-7daf-4c7a-b12f-a966c7fcde69.png)
+
+
 ## Notes ##
 
 For more modern code there is Isoux fork of Linux-0.01 is compilable using NASM assembler and LLVM's Clang compiler with a few more changes
